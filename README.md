@@ -48,7 +48,7 @@ Abrir o arquivo **wp-config.php** e **wp-config-sample.php/**
 - **Senha:** admin
 
 
-Made with ♥ by [Elton Carvaho](http://eltoncarvalho.esy.es)
+Made with ♥ by [Elton Carvaho](http://eltoncarvalho.github.io)
 
 
 

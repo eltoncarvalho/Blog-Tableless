@@ -67,7 +67,7 @@ add_action( 'login_enqueue_scripts', 'cutom_login_logo' );
 
 // Customizar o Footer do WordPress
 function remove_footer_admin () {
-	echo 'Made with ♥ by <a href="http://eltoncarvalho.esy.es/">Elton Carvalho</a>';
+	echo 'Made with ♥ by <a href="http://eltoncarvalho.github.io">Elton Carvalho</a>';
 }
 add_filter('admin_footer_text', 'remove_footer_admin');
 // Fim Customizar o Footer do WordPress

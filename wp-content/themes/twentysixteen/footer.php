@@ -48,7 +48,7 @@
 					do_action( 'twentysixteen_credits' );
 				?>
 				Made with <span style="color: #eb191e;">♥</span> by 
-				<a href="http://eltoncarvalho.esy.es/" style="color: #eb191e; text-decoration: none;">Elton Carvaho</a>
+				<a href="http://eltoncarvalho.github.io" style="color: #eb191e; text-decoration: none;">Elton Carvaho</a>
 			</div><!-- .site-info -->
 		</footer><!-- .site-footer -->
 	</div><!-- .site-inner -->
